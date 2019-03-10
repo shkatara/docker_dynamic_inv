@@ -1,4 +1,3 @@
-########
 IT NEEDS docker-py on the host that you are running ansible* commands from
 
 1. pip install docker-py.
